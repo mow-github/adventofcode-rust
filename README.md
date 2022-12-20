@@ -11,7 +11,7 @@ Update
 `rustup update`
 
 Compile and run created .exe, example  
-`rustc main.rs`
+`rustc main.rs`  
 `main.exe`
 
 Cargo: version  
@@ -21,7 +21,7 @@ Cargo: new project
 `cargo new hello_cargo`
 
 Cargo: build  
-`cargo build`
+`cargo build`  
 `cargo build --release`
 
 Cargo: run (builds and runs the program)  
